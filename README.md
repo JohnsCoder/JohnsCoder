@@ -1,4 +1,4 @@
-## Eai Devs! 💻
+## Hi Devs! 💻
 
 <div align="center">
   <a href="https://github.com/JohnsCoder">
