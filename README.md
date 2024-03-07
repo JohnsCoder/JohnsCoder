@@ -1,4 +1,4 @@
-## Hi Devs! 💻
+## Olá Devs! 💻
 
 <!-- <div align="center">
   <a href="https://github.com/JohnsCoder">
